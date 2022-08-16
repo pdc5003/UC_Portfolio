@@ -1,0 +1,5 @@
+---,Patterns
+1,"(""0_Idle"",""2_Strafe"",""4_Action"",""2_Strafe"")"
+2,"(""3_Teleport"",""5_DashAction"",""5_DashAction"",""5_DashAction"",""3_Teleport"",""2_Strafe"")"
+3,"(""4_Action"",""2_Strafe"",""4_Action"",""0_Idle"")"
+4,"(""6_UpperAction"",""0_Idle"",""5_DashAction"",""3_Teleport"",""2_Strafe"")"

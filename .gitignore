@@ -1,0 +1,31 @@
+###########################
+#        UE Generated Files        #
+###########################
+UE5_WorldOfPet.sln
+.vs/*
+Binaries/*
+Build/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+WindowsNoEditor/*
+
+
+###########################
+#          UE Assets Files           #
+###########################
+# Content/*
+
+
+###########################
+#          UE Plugin Files           #
+###########################
+# Plugins/*/Binaries/*
+# Plugins/*/Intermediate/*
+
+
+###########################
+#       Rider Generated Files      #
+###########################
+.idea/*
+*.sln.DotSettings.user

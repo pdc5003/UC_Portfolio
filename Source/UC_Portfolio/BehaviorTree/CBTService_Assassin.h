@@ -1,0 +1,33 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "BehaviorTree/BTService.h"
+#include "CBTService_Assassin.generated.h"
+
+UCLASS()
+class UC_PORTFOLIO_API UCBTService_Assassin : public UBTService
+{
+	GENERATED_BODY()
+	
+public:
+	UCBTService_Assassin();
+
+protected:
+	virtual void OnSearchStart(FBehaviorTreeSearchData& SearchData) override; 
+	virtual void TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory, float DeltaSeconds) override;
+
+private:
+	void SetDashAttack();
+
+private:
+	UPROPERTY(EditAnywhere)
+		int32 DashPercent = 500;
+
+	UPROPERTY(EditAnywhere)
+		int32 AttackPercent = 500;
+
+private:
+	bool bTaskEnterAble = true;
+	bool bCanDashAttack = false;
+
+};
