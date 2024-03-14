@@ -1,6 +1,6 @@
 # 포트폴리오 기술서
 
-![포트폴리오썸네일2](https://github.com/pdc5003/UC_Portfolio/assets/34324684/cb11c8ea-de43-40e5-9a0e-e486447e2194)
+![포트폴리오썸네일1](https://github.com/pdc5003/UC_Portfolio/assets/34324684/ccc0098c-1507-4c39-8eab-845f2b260aab)
 
 
 - **프로젝트 개요**
