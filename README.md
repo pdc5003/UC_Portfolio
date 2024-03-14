@@ -35,11 +35,11 @@
         사용 이유 : 갓 오브 워에서 리바이어던 도끼를 던지고 회수하는 시스템이 게임을 해본 유저들에게 많은 호평을 받았고 제가 만든 포트폴리오의 모티브도 갓 오브 워를 기반으로 했기 때문에 시스템을 구현해보고자 하였습니다.
         
         [https://youtu.be/YLxRH9EsnDI](https://youtu.be/YLxRH9EsnDI)
+ 
+      ![도끼회수헤더](https://github.com/pdc5003/UC_Portfolio/assets/34324684/9e5cc8f0-a749-44cc-a02e-d04be789e3f5)
+      ![도끼회수CPP](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0b21f843-96ea-45af-8166-1d600abe0697)
         
-        ![도끼회수헤더.PNG](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%201deb737ba76e42259fecfe9bb1450451/%EB%8F%84%EB%81%BC%ED%9A%8C%EC%88%98%ED%97%A4%EB%8D%94.png)
-        
-        ![도끼회수CPP.PNG](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%201deb737ba76e42259fecfe9bb1450451/%EB%8F%84%EB%81%BC%ED%9A%8C%EC%88%98CPP.png)
-        
+  
         특이사항 : 도끼를 던지고 나서 회수하는 과정을 베지에 곡선을 이용해서 구현했습니다.
         
         ---
@@ -53,10 +53,10 @@
         클래스 : ACAIController_Boss
         
         사용 이유 : 보스AI의 일반적인 AI와 다르게 플레이어에게 좀 더 압박감을 줄 수 있는 다채로운 연계 공격이나 견제 공격 방식이 필요했으며, 액션에 따른 상태들을 데이터 테이블로 관리하여 수정을 편하게 할 수 있게 하였습니다.
-        
-        ![https://blog.kakaocdn.net/dn/Bqaev/btrbOrlomcv/SCvDroGRFvKel6k3EOqy5K/img.png](https://blog.kakaocdn.net/dn/Bqaev/btrbOrlomcv/SCvDroGRFvKel6k3EOqy5K/img.png)
-        
-        ![https://blog.kakaocdn.net/dn/ykhJc/btrbGAxh1wG/MhiwVGktHCZGroIaV84Rdk/img.png](https://blog.kakaocdn.net/dn/ykhJc/btrbGAxh1wG/MhiwVGktHCZGroIaV84Rdk/img.png)
+ 
+        ![AI보스패턴테이블](https://github.com/pdc5003/UC_Portfolio/assets/34324684/28d39d8b-51c0-4108-b83b-b7d5a6ae030f)
+        ![보스패턴코드일부](https://github.com/pdc5003/UC_Portfolio/assets/34324684/c818c3c4-166a-4f31-81d4-d1dd8a3c6607)
+     
         
         데이터 행의 갯수 만큼 패턴 리스트를 등록
         
@@ -73,15 +73,15 @@
         
         사용 이유 : 커맨드 조합을 통해 보다 능동적이고 역동적인 액션을 유도하기 위해 사용했습니다.
         
-        ![https://blog.kakaocdn.net/dn/KXDgo/btrbIG347B6/QTAiXc5hVRr9tlnfsiBsMk/img.png](https://blog.kakaocdn.net/dn/KXDgo/btrbIG347B6/QTAiXc5hVRr9tlnfsiBsMk/img.png)
+        ![LockOnDash](https://github.com/pdc5003/UC_Portfolio/assets/34324684/504eb977-220a-4584-b5c4-4361c1fd0552)
         
         대쉬 공격
         
-        ![https://blog.kakaocdn.net/dn/B0FYt/btrbJIm2LEG/PrAqNAOFVFHV27QQ3VY2bK/img.png](https://blog.kakaocdn.net/dn/B0FYt/btrbJIm2LEG/PrAqNAOFVFHV27QQ3VY2bK/img.png)
+        ![LockOnUpper](https://github.com/pdc5003/UC_Portfolio/assets/34324684/5ee6bc61-02b3-4c6c-980a-002f9950ae58)
         
         어퍼 공격
         
-        ![https://blog.kakaocdn.net/dn/bYZVCh/btrbGA4n52l/1wh80g7u58HIyohU2LEfK0/img.png](https://blog.kakaocdn.net/dn/bYZVCh/btrbGA4n52l/1wh80g7u58HIyohU2LEfK0/img.png)
+        ![LockOnRound](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0dff3a42-ae1b-4fb9-97cf-1871141812a1)
         
         주변 광역 공격
         
@@ -96,7 +96,7 @@
         
         클래스 : APCombatAction 및 파생 클래스
         
-        ![https://blog.kakaocdn.net/dn/l004z/btrbEMxgd3T/pAK5kSKKYFBURHTWnhkrfK/img.png](https://blog.kakaocdn.net/dn/l004z/btrbEMxgd3T/pAK5kSKKYFBURHTWnhkrfK/img.png)
+        ![무기 액션](https://github.com/pdc5003/UC_Portfolio/assets/34324684/365ab9bf-b911-4b14-8602-0ca732dd72b6)
         
         사용 이유 : 무기 및 무장별 애니메이션과 파티클이 다르게 작동되야 되기 때문에 최상위 부모클래스인 APCombatAction에서 해당 메서드들을 정의하여 오버라이드 하는 방식으로 처리했습니다.
         
@@ -110,7 +110,7 @@
         
         사용 이유 : 경사면이나 계단을 오를 때 발을 딛는 모습에 어색함을 줄이기 위해 사용했습니다.
         
-        ![https://blog.kakaocdn.net/dn/bSioID/btrbId2b9On/3FhtRJZibdRo68ym4Du7hk/img.png](https://blog.kakaocdn.net/dn/bSioID/btrbId2b9On/3FhtRJZibdRo68ym4Du7hk/img.png)
+        ![IK](https://github.com/pdc5003/UC_Portfolio/assets/34324684/a65ef2e9-5649-4a6e-8a18-7530088a963a)
         
         FeetIK
         
