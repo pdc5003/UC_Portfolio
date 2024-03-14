@@ -1,6 +1,6 @@
 # 포트폴리오 기술서
 
-[![포트폴리오썸네일3](https://github.com/pdc5003/UC_Portfolio/assets/34324684/40a5fbb3-8a65-4f91-8cce-5c9161e6ca97)](https://www.youtube.com/watch?v=zZjX98hclOw)
+[![포트폴리오_소개영상](https://github.com/pdc5003/UC_Portfolio/assets/34324684/8fabbce5-04cd-4e89-823a-b95ea5ff5cf0)](https://www.youtube.com/watch?v=zZjX98hclOw)
 
 - **프로젝트 개요**
     - 프로젝트 설명 : Unreal Engin4를 활용한 액션게임 제작
@@ -19,7 +19,8 @@
         
         사용 이유 : 갓 오브 워의 처형 모션처럼 사용자로 하여금 카타르시스를 느끼게 해주고 레벨 시퀀스를 사용해 보다 역동적인 움직임을 보여주는데 집중했습니다.
         
-        [https://youtu.be/Y6ALM4C9PS4](https://youtu.be/Y6ALM4C9PS4)
+        
+        [![처형기능_영상](https://github.com/pdc5003/UC_Portfolio/assets/34324684/531e5109-a831-434f-8086-4e36f1aa36a3)](https://youtu.be/Y6ALM4C9PS4)
         
         특이사항 : 처형 레벨 시퀀스가 재생될 때 카메라의 위치와 각도를 맞추기 위해 시네마틱 카메라를 관리하는 액터를 미리 생성하고 처형 모션을 실행 할 시 바인딩과 언바인딩을 통해 처리했습니다.
         
@@ -33,10 +34,10 @@
         
         사용 이유 : 갓 오브 워에서 리바이어던 도끼를 던지고 회수하는 시스템이 게임을 해본 유저들에게 많은 호평을 받았고 제가 만든 포트폴리오의 모티브도 갓 오브 워를 기반으로 했기 때문에 시스템을 구현해보고자 하였습니다.
         
-        [https://youtu.be/YLxRH9EsnDI](https://youtu.be/YLxRH9EsnDI)
+        [![도끼회수_영상](https://github.com/pdc5003/UC_Portfolio/assets/34324684/008a6e2a-dc1f-4217-a9b9-b535d3604b93)](https://youtu.be/YLxRH9EsnDI)
  
-      ![도끼회수헤더](https://github.com/pdc5003/UC_Portfolio/assets/34324684/9e5cc8f0-a749-44cc-a02e-d04be789e3f5)
-      ![도끼회수CPP](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0b21f843-96ea-45af-8166-1d600abe0697)
+       ![도끼회수헤더](https://github.com/pdc5003/UC_Portfolio/assets/34324684/9e5cc8f0-a749-44cc-a02e-d04be789e3f5)
+       ![도끼회수CPP](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0b21f843-96ea-45af-8166-1d600abe0697)
         
   
         특이사항 : 도끼를 던지고 나서 회수하는 과정을 베지에 곡선을 이용해서 구현했습니다.
@@ -119,112 +120,112 @@
 - **작업 내역**
     - Boss AI 패턴 추가 후 테스트
         
-        [https://youtu.be/eizSq9uBRdw](https://youtu.be/eizSq9uBRdw)
+        [![보스패턴최종수정](https://github.com/pdc5003/UC_Portfolio/assets/34324684/936537b5-785c-4e3c-bae5-fa754261fcfe)](https://www.youtube.com/watch?v=eizSq9uBRdw)
         
     
     - Boss AI 기본 패턴 테스트
         
-        [https://youtu.be/cPv1QHDEkWk](https://youtu.be/cPv1QHDEkWk)
+        [![보스기본패턴](https://github.com/pdc5003/UC_Portfolio/assets/34324684/ee1d9ca3-b50c-439a-832c-b5a78865e2c4)](https://www.youtube.com/watch?v=cPv1QHDEkWk)
         
     
     - 플레이어 퍼펙트 가드
         
-        [https://youtu.be/bDEAimwMZ3k](https://youtu.be/bDEAimwMZ3k)
+        [![플레이어퍼펙트가드](https://github.com/pdc5003/UC_Portfolio/assets/34324684/41602077-d1f6-4388-a61f-069510d7fe07)](https://youtu.be/bDEAimwMZ3k)
         
     
     - 플레이어 가드시 밀림
         
-        [https://youtu.be/GsaAVsJVlMg](https://youtu.be/GsaAVsJVlMg)
+        [![플레이어가드밀림](https://github.com/pdc5003/UC_Portfolio/assets/34324684/ee9220a5-ef90-4540-b422-37470b15500a)](https://youtu.be/GsaAVsJVlMg)
         
     
     - 플레이어 카운터 어택 및 도끼 던지기로 적 홀딩
-        
-        [https://youtu.be/1fsnBOEdLlA](https://youtu.be/1fsnBOEdLlA)
+                
+        [![플레이어카운어택_도끼던지기로_적_홀딩](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0b9a01b6-c1b8-4fff-9263-4511446535ed)](https://youtu.be/1fsnBOEdLlA)
         
     
     - 신규 AI 타입 추가
         
-        [https://youtu.be/Nfgy9NEIvLM](https://youtu.be/Nfgy9NEIvLM)
+        [![신규_AI추가](https://github.com/pdc5003/UC_Portfolio/assets/34324684/86a196ea-663f-4911-97d9-5e84ae21cf69)](https://youtu.be/Nfgy9NEIvLM)
         
     
     - AI와 전투 프로토타입
-        
-        [https://youtu.be/6OyoE2FRH8Y](https://youtu.be/6OyoE2FRH8Y)
+                
+        [![전투프로토타입](https://github.com/pdc5003/UC_Portfolio/assets/34324684/be767dd7-a228-4514-bc4f-776ede36e6e6)](https://youtu.be/6OyoE2FRH8Y)
         
     
     - AI 첫 번째 타입 추가
-        
-        [https://youtu.be/DHYD_wUxLsM](https://youtu.be/DHYD_wUxLsM)
+                
+        [![AI추가](https://github.com/pdc5003/UC_Portfolio/assets/34324684/8a491168-f0e6-4b7d-9b97-094666c3f689)](https://youtu.be/DHYD_wUxLsM)
         
     
     - 타겟팅 시스템
         
-        [https://youtu.be/2mbJ-f5UTTg](https://youtu.be/2mbJ-f5UTTg)
+        [![타겟팅(록온)](https://github.com/pdc5003/UC_Portfolio/assets/34324684/75c22607-b3f6-4898-85aa-2db407a6e1e5)](https://youtu.be/2mbJ-f5UTTg)
         
     
     - 무기 트레일 및 이펙트 추가
         
-        [https://youtu.be/mtZfdGCWQLs](https://youtu.be/mtZfdGCWQLs)
+        [![무기트레일_이펙트](https://github.com/pdc5003/UC_Portfolio/assets/34324684/6c664e9d-6ecf-4798-acbf-95c21124b2f7)](https://youtu.be/mtZfdGCWQLs)
         
     
     - 도끼 무기 스킬 추가
-        
-        [https://youtu.be/XOvUzOq-1JU](https://youtu.be/XOvUzOq-1JU)
+                
+        [![도끼스킬추가](https://github.com/pdc5003/UC_Portfolio/assets/34324684/aebaa4a1-f2a9-413a-8a07-b5aaa2c477fd)](https://youtu.be/XOvUzOq-1JU)
         
     
     - 공중 콤보 최종버전
-        
-        [https://youtu.be/BWwf8iDHnGw](https://youtu.be/BWwf8iDHnGw)
+                
+        [![공중콤보최종](https://github.com/pdc5003/UC_Portfolio/assets/34324684/3cf3b886-d417-4377-8281-31cf9565db6f)](https://youtu.be/BWwf8iDHnGw)
         
     
     - 공중 콤보 프로토타입 제작
         
-        [https://youtu.be/jfx2F0dza5c](https://youtu.be/jfx2F0dza5c)
+        [![공중콤보_프로토타입](https://github.com/pdc5003/UC_Portfolio/assets/34324684/7b453430-9390-4582-bb21-aa5e39aa8698)](https://youtu.be/jfx2F0dza5c)
         
     
     - 처형 모션 베타버전2
-        
-        [https://youtu.be/2inw71eSs6c](https://youtu.be/2inw71eSs6c)
+                
+        [![처형기능_베타2](https://github.com/pdc5003/UC_Portfolio/assets/34324684/ccab7a19-92b3-472a-90fd-7c3a88f66196)](https://youtu.be/2inw71eSs6c)
         
     
     - 처형 모션 베타버전1
         
-        [https://youtu.be/0PDbg8oedFo](https://youtu.be/0PDbg8oedFo)
+        [![처형기능_베타1](https://github.com/pdc5003/UC_Portfolio/assets/34324684/b3ef7633-9b19-4105-8b0a-65509757ee46)](https://youtu.be/0PDbg8oedFo)
         
     
     - 처형 모션 프로토타입 2
         
-        [https://youtu.be/GS9btPhI6bs](https://youtu.be/GS9btPhI6bs)
+        [![처형기능_프로토타입2](https://github.com/pdc5003/UC_Portfolio/assets/34324684/1605a1dd-f308-4314-a068-b1855a71ea64)](https://youtu.be/GS9btPhI6bs)
         
     
     - 처형모션 프로토타입 1
         
-        [https://youtu.be/7iMmHpsXDQ0](https://youtu.be/7iMmHpsXDQ0)
+        [![처형기능_프로토타입1](https://github.com/pdc5003/UC_Portfolio/assets/34324684/9bf2f8db-a7ab-410e-8473-bed988fb1f31)](https://youtu.be/7iMmHpsXDQ0)
         
     
     - 공격 커맨드 기술
         
-        [https://youtu.be/YOq8nUCX2y4](https://youtu.be/YOq8nUCX2y4)
+        [![공격커맨드기술](https://github.com/pdc5003/UC_Portfolio/assets/34324684/769604fe-3d07-4314-a353-219061479066)](https://youtu.be/YOq8nUCX2y4)
         
     
     - 도끼 던진 후 맨손공격 상태로 전환
         
-        [https://youtu.be/ThDWeFjBdq0](https://youtu.be/ThDWeFjBdq0)
+        [![도끼던지기이후_맨손전환](https://github.com/pdc5003/UC_Portfolio/assets/34324684/00365a10-afd6-439e-82b0-8c5eb5abe652)](https://youtu.be/ThDWeFjBdq0)
         
     
     - 도끼 던지기 마지막 수정안
         
-        [https://youtu.be/3PUuL2k45aE](https://youtu.be/3PUuL2k45aE)
+        [![도끼던지기_마지막수정](https://github.com/pdc5003/UC_Portfolio/assets/34324684/75fea364-a920-40ee-8e39-a0a273f830c9)](https://youtu.be/3PUuL2k45aE)
         
     
     - 도끼 던지기 프로토타입
         
-        [https://youtu.be/mR1wGQHnf2E](https://youtu.be/mR1wGQHnf2E)
+       [![도끼던지기_프로토타입](https://github.com/pdc5003/UC_Portfolio/assets/34324684/739ff89a-40c2-4c0e-b5d1-2f289eff6c44)](https://youtu.be/mR1wGQHnf2E)
         
     
     - 기본 이동 및 공격
         
-        [https://youtu.be/RZUbGu_849g](https://youtu.be/RZUbGu_849g)
+        [![기본이동 및 공격](https://github.com/pdc5003/UC_Portfolio/assets/34324684/0c1f91e7-226f-4afd-a5b9-bb861337db6b)](https://youtu.be/RZUbGu_849g)
         
     
     ---
