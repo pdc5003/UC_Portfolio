@@ -1,7 +1,6 @@
 # 포트폴리오 기술서
 
-![포트폴리오썸네일1](https://github.com/pdc5003/UC_Portfolio/assets/34324684/ccc0098c-1507-4c39-8eab-845f2b260aab)
-
+[![포트폴리오썸네일3](https://github.com/pdc5003/UC_Portfolio/assets/34324684/40a5fbb3-8a65-4f91-8cce-5c9161e6ca97)](https://www.youtube.com/watch?v=zZjX98hclOw)
 
 - **프로젝트 개요**
     - 프로젝트 설명 : Unreal Engin4를 활용한 액션게임 제작
